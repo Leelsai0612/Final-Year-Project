@@ -1,0 +1,6 @@
+Steps to execute:
+1. Navigate to D drive, open My_Project folder
+2. Go to the path and type cmd
+3. Active the environment using this command "conda activate ocr-env"
+4. And run the app using the command "streamlit run app.py"
+5. And then select the images files from the dataset and run the application
